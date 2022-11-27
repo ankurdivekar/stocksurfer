@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "stocksurfer",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "stocksurfer",
+    "section": "Install",
+    "text": "Install\npip install stocksurfer"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "stocksurfer",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2"
+  },
+  {
+    "objectID": "strategies.html",
+    "href": "strategies.html",
+    "title": "strategies",
+    "section": "",
+    "text": "source\n\nfoobar\n\n foobar ()"
+  },
+  {
+    "objectID": "stockdata.html",
+    "href": "stockdata.html",
+    "title": "stockdata",
+    "section": "",
+    "text": "source\n\nsay_hello\n\n say_hello (to:str)\n\nSay hello to somebody\n\nsay_hello(\"Ankur\")\n\n'Hello Ankur!'\n\n\n\nassert say_hello(\"Hamel\")==\"Hello Hamel!\"\n\n\nfrom fastcore.test import *\n\n\ntest_eq(say_hello(\"Ankur\"), \"Hello Ankur!\")\n\nAssertionError: ==:\nHello Hamel!\nHello Ankur!\n\n\n\nfrom IPython.display import display,SVG\n\n\ndisplay(SVG('<svg height=\"100\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"50\" cy=\"50\" r=\"40\"/></svg>'))\n\n\n\n\n\nsource\n\n\nfoo\n\n foo ()"
+  }
+]
